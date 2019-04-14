@@ -1,0 +1,18 @@
+{
+    "plugins": ["-search"
+                ,"search-pro"
+                ,"toggle-chapters"
+                ,"theme-comscore"],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["中文","分词"]
+        },
+        "theme-default": {
+        "showLevel": true
+    }
+    },
+	"styles": {
+	  "website": "styles/mystyle.css"
+	}
+}

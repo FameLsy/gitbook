@@ -1,18 +1,17 @@
 # Summary
 
-
-* [Introduction](chapter1/README.md)
+* [前言](README.md)
+* [java 基本数据类型](chapter1/README.md)
     * [八大基础数据类型](chapter1/section.1.md)
     * [数值类型转换](chapter1/section.2.md)
     * [表达式中的类型提升](chapter1/section.3.md)
     * [对象包装器和自动装箱](chapter1/section.4.md)
-* [数组](chapter2)
+* [数组](chapter2/README.md)
     * [数组初始化](chapter2/section.1.md)
     * [初始化匿名数组](chapter2/section.2.md)
     * [多维数组](chapter2/section.3.md)
     * [对象包装器和自动装箱](chapter2/section.4.md)
-* [运算符](chapter3/section.1.md)
-
+* [运算符](chapter3/README.md)
 * [流程控制语句](chapter4/README.md)
     * [选择语句](chapter4/section.1.md)
     * [循环语句](chapter4/section.2.md)
@@ -35,3 +34,4 @@
     * [方法重写(override)](chapter7/section.3.md)
     * [子类构造器](chapter7/section.4.md)
     * [多态](chapter7/section.4.md)
+
